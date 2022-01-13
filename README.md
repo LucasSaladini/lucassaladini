@@ -2,6 +2,7 @@
 
 - 💻 Eu sou um desenvolvedor <b>FullStack</b> em formação 
 - 📖 Atualmente estou aprendendo <b>JavaScript</b> e <b>MongoDB</b>
+- <a href="https://lucassaladini.github.io/portfolio/" target="_blank">Portfolio</a>
 
 ##
 <div style='display: flex; flex-direction: column'>
