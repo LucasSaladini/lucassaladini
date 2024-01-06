@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Saladini 🤓
 
 - 💻 Eu sou um desenvolvedor <b>FullStack</b> em formação 
-- 📖 Atualmente estou aprendendo <b>Angular</b> e <b>MongoDB</b>
+- 📖 Atualmente estou aprendendo <b>Angular</b> e <b>C#</b>
 - <a href="https://lucassaladini.github.io/portfolio/" target="_blank">Portfolio</a>
 
 ##
