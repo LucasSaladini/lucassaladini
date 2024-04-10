@@ -6,7 +6,7 @@
 
 ##
 <div style='display: flex; flex-direction: column'>
-   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=lucassaladini&show_icons=tue&theme=chartreuse-dark&include_all_commits=true&count_private=true' />
+   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=lucassaladini&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true' />
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucassaladini&layout=compact&langs_count=16&theme=chartreuse-dark' />
 </div>
   
