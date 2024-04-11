@@ -21,7 +21,7 @@
   <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width='60'/>
   <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width='60'/>
   <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width='60'/>
-  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width='60'/>
+  <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width='60'/>
   <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width='60' />
  </div>
  
