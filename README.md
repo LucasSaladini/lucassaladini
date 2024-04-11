@@ -28,6 +28,7 @@
  ##
  
  <div>
+  <a href="https://www.dio.me/users/lucassaladini" target="_blank">DIO Profile</a>
   <a href='https://lucassaladini.medium.com/' target='_black'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /></a>
   <a href='https://www.linkedin.com/in/lucas-saladini/' target='_black'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
   <a href='mailto:lucassaladini@gmail.com'><img src='https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white'></a>
